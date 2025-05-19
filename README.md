@@ -17,7 +17,7 @@ This project is a speech-to-speech translator that takes English audio input, co
 1. **Clone the repository**
 
    ```bash
-   git clone [https://github.com/your-username/english-to-italian-voice-translator](https://github.com/Sharvesh1208/English-To-Italian-Speech-Translator).git
+   git clone https://github.com/Sharvesh1208/English-To-Italian-Speech-Translator.git
    cd english-to-italian-voice-translator
    ```
 
